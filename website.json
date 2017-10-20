@@ -1,0 +1,66 @@
+{
+"meta":{
+  "motto":"Hi! I'm the best data scientist and investment banker at Stanford.",
+  "owner":"Rick Barber",
+  "bg_image": "https://people.groupon.com/wp-content/blogs.dir/17/files/2012/07/Rick-Barber-tech.jpg",
+  "avatar": "http://infolab.stanford.edu/db_pages/img/RickBarberSm2.jpg",
+  "links":[
+      { 
+        "url":"http://google.com",
+        "name":"LinkedIn"
+      },
+      { 
+        "url":"mailto:barber5@stanford.edu",
+        "name":"Say Hello!"
+      }
+  ]
+},
+"views":[
+  {
+    "labels" : ["Drug","Big data","Cats"],
+    "cover" : "http://images4.fanpop.com/image/photos/16100000/-cats-16140154-1920-1080.jpg",
+    "type" : 0,
+    "link" : "http://www.catforum.com/" ,
+    "desc" : "Here is some description of the project and whatever other short content you want to show before the user clicks the expansion button." ,
+    "title" : "Where is my cat" ,
+    "time" : "2013 April"
+  },
+  {
+    "labels" : ["Five things","More data","More cats"],
+    "images" : [{"url":"http://images4.fanpop.com/image/photos/16100000/-cats-16140154-1920-1080.jpg"},{"url":"http://www.phlmetropolis.com/Cats.jpg"}],
+    "cover" : "http://www.phlmetropolis.com/Cats.jpg",
+    "type" : 2,
+    "full_text" : ["Cat's are good","They are really good","I've got five of them"],
+    "desc" : "Here is some description of the project and whatever other short content you want to show before the user clicks the expansion button." ,
+    "title" : "I need more cats" ,
+    "time" : "2012 April"
+  },
+  {
+    "labels" : ["Drug","Big data","Cats"],
+    "cover" : "http://images4.fanpop.com/image/photos/16100000/-cats-16140154-1920-1080.jpg",
+    "type" : 0,
+    "link" : "http://www.catforum.com/" ,
+    "desc" : "Here is some description of the project and whatever other short content you want to show before the user clicks the expansion button." ,
+    "title" : "Where is my cat" ,
+    "time" : "2013 April"
+  },
+  {
+    "labels" : ["Five things","More data","More cats"],
+    "images" : [{"url":"http://images4.fanpop.com/image/photos/16100000/-cats-16140154-1920-1080.jpg"},{"url":"http://www.phlmetropolis.com/Cats.jpg"}],
+    "cover" : "http://www.phlmetropolis.com/Cats.jpg",
+    "type" : 2,
+    "full_text" : ["Cat's are good","They are really good","I've got five of them"],
+    "desc" : "Here is some description of the project and whatever other short content you want to show before the user clicks the expansion button." ,
+    "title" : "I need more cats" ,
+    "time" : "2012 April"
+  }
+],
+  "tags":{
+    "0": "Cats",
+    "1": "Data problem",
+    "2": "Photography",
+    "3": "Miscellaneous"
+  }
+}
+
+  
